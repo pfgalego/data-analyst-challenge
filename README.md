@@ -11,10 +11,10 @@ A **Empresa X** atua no ramo de Recrutamento e Seleção (R&S). Isso significa q
 
 ### Sobre os dados:
 Você deverá copiar os conjuntos de dados abaixo para realizar sua análise:
-1. **jobs.txt**: Contém as vagas abertas pelos clientes da **Empresa X**, suas respectivas classificações e datas;
-2. **category.txt**: Contém a lista de categorias e seus nomes;
-3. **jobCost.txt**:  Contém todos os custos das vagas por dia;
-4. **customer**: Possui a lista de clientes e suas respectivas classificações. 
+1. **jobs.csb**: Contém as vagas abertas pelos clientes da **Empresa X**, suas respectivas classificações e datas;
+2. **category.csv**: Contém a lista de categorias e seus nomes;
+3. **jobCost.csv**:  Contém todos os custos das vagas por dia;
+4. **customer.csv**: Possui a lista de clientes e suas respectivas classificações. 
 
 Veja a estrutura abaixo:
 
